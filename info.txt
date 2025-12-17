@@ -1,0 +1,13 @@
+Inicia el entorno virtual ejecutando:
+
+command-line
+
+$ source myvenv/bin/activate
+
+
+admin credenciales
+user: niko
+pass: niko
+
+start server 
+python manage.py runserver
